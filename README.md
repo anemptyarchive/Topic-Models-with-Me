@@ -1,3 +1,3 @@
-# Topic Models withMe
+# Topic Models with Me
 
-I'm Lovin' It.
+理解度に比例して記事が生成されます。
